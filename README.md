@@ -1,7 +1,7 @@
 # nochar
 checks chars in headers
 
-<b>Usage: ./nochar.sh</b>
+<b>Usage: ./nochar.sh -f <DOMAINFILE.txt> -o <OUTPUTFILEtoCREATE.txt></b>
 
 <h3>nochar v.1.0</h3>
 

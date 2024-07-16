@@ -5,7 +5,7 @@ read dom
 touch output.txt
 
 for i in $(cat "$dom"); do
-    content=$(curl --head "{$i}")
+    content=$(curl --head --max-time 2 "{$i}")
     echo "<-------------------->" >> output.txt
     echo "$content" >> output.txt
 done

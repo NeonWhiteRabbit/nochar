@@ -1,5 +1,5 @@
 # nochar
-checks chars in headers
+checks chars in headers and also gives you response codes.
 
 <b>Usage: ./nochar.sh -f <DOMAINFILE.txt> -o <OUTPUTFILEtoCREATE.txt></b>
 

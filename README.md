@@ -13,7 +13,6 @@ nochar takes a text file with domains and grabs the header to show HTTP Response
  <h1>Installation Instructions</h1>
 >>git clone https://github.com/NeonWhiteRabbit/nochar.git<br>
 >>chmod 777 nochar.sh<br>
->>./cryptkeeper.sh<br>
 
 <h1>Version Control</h1>
  
